@@ -1,4 +1,4 @@
 FROM arshsisodiya/helioskirepo:public
-WORKDIR /maruf
-COPY ..
+
+COPY . .
 CMD["bash","maruf.sh"]
