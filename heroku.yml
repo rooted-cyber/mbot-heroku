@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  web: bash maruf.sh
+  worker: bash maruf.sh
