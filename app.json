@@ -1,5 +1,5 @@
 {
-    "name": "Ultroid UserBot in github action",
+    "name": "Helios mirror bot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
     "logo": "https://telegra.ph/file/8fd3bb89b9fb46867e7c9.jpg",
     "keywords": [
@@ -21,7 +21,7 @@
         }
     },
     "formation": {
-        "worker": {
+        "rootedcyber": {
             "quantity": 1,
             "size": "free"
         }
