@@ -1,4 +1,4 @@
 FROM arshsisodiya/helioskirepo:public
 
 COPY . .
-CMD["./maruf.sh"]
+CMD ["bash", "maruf.sh"]
