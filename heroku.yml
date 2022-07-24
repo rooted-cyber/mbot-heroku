@@ -1,5 +1,5 @@
 build:
   docker:
-    worker: Dockerfile
+    rootedcyber: Dockerfile
 run:
-  worker: bash maruf.sh
+  rootedcyber: bash maruf.sh
